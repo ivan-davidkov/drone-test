@@ -1,3 +1,6 @@
+
 image: _/centos:6.8
+
+build:
   command:
     - echo "hello world"
