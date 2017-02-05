@@ -1,0 +1,3 @@
+image: _/centos:6.8
+  command:
+    - echo "hello world"
